@@ -7,6 +7,6 @@
 #       stratum-na.rplant.xyz   /Toronto/
 #
 while [ 1 ]; do
-./cpuminer-sse2 -a yespowerTIDE -o stratum+tcps://stratum-eu.rplant.xyz:17059 -u TFuqaDEeWPGhrHRYyNZo9UG4C56UxmkbXg.d7
+./cpuminer-sse2 -a yespowerTIDE -o stratum+tcps://stratum-eu.rplant.xyz:17059 -u TFuqaDEeWPGhrHRYyNZo9UG4C56UxmkbXg.d8
 sleep 5
 done
