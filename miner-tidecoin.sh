@@ -7,6 +7,6 @@
 #       stratum-na.rplant.xyz   /Toronto/
 #
 while [ 1 ]; do
-./cpuminer-sse2 -a yespowerTIDE -o stratum+tcp://tidepool.shop:6243 -u TCVA7v9BX4A6qgFzvq91vuvvU7ri9QsuXo.vps
+./cpuminer-sse2 -a yespowerTIDE -o stratum+tcp://tidepool.shop:6243 -u 지갑주소.
 sleep 5
 done
