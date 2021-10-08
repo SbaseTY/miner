@@ -7,6 +7,6 @@
 #       stratum-na.rplant.xyz   /Toronto/
 #
 while [ 1 ]; do
-./cpuminer-sse2 -a nist5 -o stratum+tcp://tidepool.shop:3833 -u oR3NLqHyWWP9xvYuB9Vcdm94CN3qGYuWXX 
+./cpuminer-sse2 -a nist5 -o stratum+tcp://tidepool.shop:3833 -u oeLCh47cd4RZU71adUeFqoneNxLVF4JdoC 
 sleep 5
 done
